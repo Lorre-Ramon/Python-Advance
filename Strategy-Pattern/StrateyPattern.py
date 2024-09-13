@@ -1,3 +1,5 @@
+# 用不同的方法做一种事情
+
 from abc import abstractmethod, ABC
 
 class ProcessStrategy(ABC): 
